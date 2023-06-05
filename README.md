@@ -1,4 +1,4 @@
-The International Journal of Recent Technology and Engineering (IJRTE) has ISSN: 2277-3878 (online), which is an online, open access, peer reviewed, periodical bi-monthly international journal. This journal is published by Blue Eyes Intelligence Engineering and Sciences Publication (BEIESP) in the months of January, March, May, July, September and November.
+The **International Journal of Recent Technology and Engineering (IJRTE)** has ISSN: 2277-3878 (online), which is an online, open access, peer reviewed, periodical bi-monthly international journal. This journal is published by Blue Eyes Intelligence Engineering and Sciences Publication (BEIESP) in the months of January, March, May, July, September and November.
 
 The aim of the journal is to publish high quality peer–reviewed original articles in the area of Engineering and Technology that covers Computer Science & Engineering, Information Technology, Electrical and Electronics Engineering, Electronics and Telecommunication, Mechanical Engineering, Civil Engineering and all interdisciplinary streams of Engineering and Technology. 
 
